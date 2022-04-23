@@ -45,7 +45,7 @@ function Quote() {
       Host: "sg1.asia.cpanel.hostens.cloud",
       Username: "info@logicworms.com",
       Password: "w2FYp0wjCfv;",
-      To: "info@logicworms.com",
+      To: "hamdullahlw@gmail.com",
       From: email,
       Subject: `${project} - ${first} ${last} - QUERY`,
       Body: `
