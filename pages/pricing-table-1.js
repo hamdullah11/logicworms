@@ -69,7 +69,7 @@ function PricingTable1() {
                         <li>UI/UX</li>
                         <li>Web Development</li>
                         <li>SEO Marketing</li>
-                        <li>Andriod App Development</li>
+                        <li>android App Development</li>
                       </ul>
                       <div className="pricingtable-footer">
                         <Link href="/pricing-table-1">
@@ -107,7 +107,7 @@ function PricingTable1() {
                         <li>UI/UX</li>
                         <li>Web Development</li>
                         <li>SEO Marketing</li>
-                        <li>Andriod App Development</li>
+                        <li>android App Development</li>
                       </ul>
                       <div className="pricingtable-footer">
                         <Link href="pricing-table-1">
@@ -145,7 +145,7 @@ function PricingTable1() {
                         <li>UI/UX</li>
                         <li>Web Development</li>
                         <li>SEO Marketing</li>
-                        <li>Andriod App Development</li>
+                        <li>android App Development</li>
                       </ul>
                       <div className="pricingtable-footer">
                         <Link href="pricing-table-1">

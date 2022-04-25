@@ -18,7 +18,7 @@ function ServicesDetails1() {
         >
           <div className="container">
             <div className="dlab-bnr-inr-entry">
-              <h1>Andriod App Development</h1>
+              <h1>android App Development</h1>
               {/* <!-- Breadcrumb Row --> */}
               <nav aria-label="breadcrumb" className="breadcrumb-row">
                 <ul className="breadcrumb">
@@ -53,7 +53,7 @@ function ServicesDetails1() {
                 </div>
                 <div className="dlab-content">
                   <div className="m-b40">
-                    <h3>Andriod App Development</h3>
+                    <h3>android App Development</h3>
                     <p>
                       The global scenario of Mobile Apps Development is
                       currently witnessing an enormous growth. With so many apps

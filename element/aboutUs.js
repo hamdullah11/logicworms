@@ -39,7 +39,7 @@ function AboutUs() {
                 than 5 years and our team has extensive experience in providing
                 custom programming services to clients across the globe.
                 Partnering with us will help you obtain a competitive advantage
-                through quality custom development services. z
+                through quality custom development services.
               </p>
               <p className="m-b30">
                 Our expert team of developers has the expertise to build

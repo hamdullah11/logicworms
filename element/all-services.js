@@ -88,7 +88,7 @@ function AllServices() {
                 <div className="icon-content">
                   <h4 className="dlab-title">Mobile Applications</h4>
                   <p>
-                    We provide services in andriod application development with
+                    We provide services in android application development with
                     heigh prfessionalsim and reasonable market price.
                   </p>
                 </div>

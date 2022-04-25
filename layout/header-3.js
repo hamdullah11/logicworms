@@ -102,7 +102,7 @@ function Header3() {
                       </li>
                       <li>
                         <Link href="/mobile-app-development">
-                          <a>Andriod</a>
+                          <a>android</a>
                         </Link>
                       </li>
                       <li>

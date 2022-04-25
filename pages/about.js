@@ -83,7 +83,7 @@ function AboutUs1() {
                   <div className="col-lg-6">
                     <ul className="list-arrow primary">
                       <li>Web Development.</li>
-                      <li>Andriod App Development.</li>
+                      <li>android App Development.</li>
                       <li>Graphics Design.</li>
                       <li>Content Writing.</li>
                     </ul>

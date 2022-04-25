@@ -72,7 +72,7 @@ function Team1() {
                   setLink1(
                     "https://www.linkedin.com/in/atif-waheed-17964534?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZIoOTgawRLWnQ3qfQbon1w%3D%3D"
                   );
-                  setLink2("https://www.instagram.com/m_adil_kamboh/");
+                  setLink2("https://www.instagram.com/atif_t2003/");
                   setLink3("https://twitter.com/atifwaheedktk");
                   setAbout(
                     "Digital marketing specialist with an immense knowledge and more then six year of experience. Also in inspiration for the newbie digital marketer for I have got several rewards for my great works."
@@ -111,7 +111,7 @@ function Team1() {
                       </li>
                       <li>
                         <a
-                          href="https://www.instagram.com/zakirdesigns/"
+                          href="https://www.instagram.com/atif_t2003/"
                           target="_blank"
                           className="fa fa-instagram"
                         ></a>
@@ -267,7 +267,7 @@ function Team1() {
                   setShow(true);
                   setImage("/images/team/employees/aqib.png");
                   setName("Muhammad Aqib");
-                  setDesignation("Andriod Developer");
+                  setDesignation("android Developer");
                   setLink1(
                     "https://www.facebook.com/profile.php?id=100010238443949"
                   );
@@ -301,7 +301,7 @@ function Team1() {
                       <h4 className="dlab-name">
                         <a>Aqib Iqbal</a>
                       </h4>
-                      <span className="dlab-position">Andriod Developer</span>
+                      <span className="dlab-position">android Developer</span>
                     </div>
                     <ul className="dlab-social-icon primary-light">
                       <li>
@@ -473,7 +473,7 @@ function Team1() {
                   setShow(true);
                   setImage("/images/team/employees/basit.png");
                   setName("Basit Ali");
-                  setDesignation("Andriod Developer");
+                  setDesignation("android Developer");
                   setLink1("https://facebook.com/justbasitali");
                   setLink2("https://www.linkedin.com/in/basit-ali-5718a2201/");
                   setLink3("https://twitter.com/justbasitali");
@@ -501,7 +501,7 @@ function Team1() {
                       <h4 className="dlab-name">
                         <a>Basit Ali</a>
                       </h4>
-                      <span className="dlab-position">Andriod Developer</span>
+                      <span className="dlab-position">android Developer</span>
                     </div>
                     <ul className="dlab-social-icon primary-light">
                       <li>
